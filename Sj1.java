@@ -1,7 +1,4 @@
 public class Sj1 {
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
         System.out.println("This is a new java file");
         byte age = 10;
@@ -12,7 +9,6 @@ public class Sj1 {
         float f =  50.5f;
         double d = 4.66;
         boolean b = false;
-        String name = "Shanker";
         System.out.println(age);
         System.out.println(s);
         System.out.println(i);
